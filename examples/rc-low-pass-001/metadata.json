@@ -1,0 +1,11 @@
+{
+  "example_id": "rc-low-pass-001",
+  "status": "planned_public_demo_scaffold",
+  "last_updated": "2026-06-09",
+  "public_route": "https://ai-electronics-lab.pages.dev/experiments/rc-low-pass-001",
+  "workflow": "rc_low_pass",
+  "artifact_status": "not_yet_published",
+  "technical_review": "pending",
+  "human_publication_approval": "pending",
+  "notes": "Generated artifacts should be added only after technical and human publication review."
+}
