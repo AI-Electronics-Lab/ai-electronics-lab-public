@@ -1,8 +1,10 @@
 # AI Electronics Lab
 
-## 🌐 Public site — start here
+## 🌐 Public project page — start here
 
-# https://ai-electronics-lab.pages.dev
+# https://ai-electronics-lab.github.io/ai-electronics-lab-public/
+
+The working prototype is hosted on Cloudflare Pages and linked from the public project page.
 
 ## Try the protected beta app
 
