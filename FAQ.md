@@ -9,6 +9,16 @@ Start with the public site:
 
 # https://ai-electronics-lab.pages.dev
 
+## How can I try the beta app?
+
+Use the protected beta app with the current public demo access:
+
+- **App:** https://ai-electronics-lab.pages.dev/app/
+- **Login:** `Ground_control`
+- **Password:** `to_major_Tom`
+
+Please treat this as an early prototype. Results are simulation-oriented artifacts, not hardware validation.
+
 ## What is AI Electronics Lab?
 
 AI Electronics Lab is a working prototype for AI-assisted electronics simulation workflows.
@@ -96,7 +106,7 @@ It can show:
 
 The protected app is the working application surface for early testing.
 
-It is intended for users who already know the access password. The public site is the entry point.
+The current public demo credentials are intentionally listed in this FAQ and in the README. They are for early public prototype access, not for private administration or internal operations.
 
 ## Why is the full product source private?
 
@@ -110,4 +120,6 @@ Claims about electronics correctness, SPICE behavior, schematic validity, calcul
 
 ## What should not be added here?
 
-Do not add secrets, credentials, internal hostnames, private runbook details, private artifact paths, raw logs, private screenshots, protected app passwords, or unapproved operational evidence.
+Do not add secrets, private credentials, internal hostnames, private runbook details, private artifact paths, raw logs, private screenshots, or unapproved operational evidence.
+
+Public demo app credentials may be listed only when they are intentionally approved for public prototype access.

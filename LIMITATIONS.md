@@ -78,6 +78,7 @@ Safe claims:
 - The first public demo direction is an RC low-pass filter workflow.
 - The public repository contains documentation, limitations, and example structure.
 - The protected app is intended for selected or semi-public beta access.
+- Current public demo app credentials may be listed when intentionally approved for public prototype access.
 
 ## What the project should not claim now
 
@@ -103,7 +104,7 @@ Therefore, public claims, technical examples, and user-facing outputs should rem
 
 Do not publish:
 
-- secrets or credentials;
+- secrets or private credentials;
 - internal hostnames;
 - private operational paths;
 - private runbook details;
@@ -112,7 +113,10 @@ Do not publish:
 - private evidence packets;
 - raw internal logs;
 - private infrastructure details;
-- protected app credentials.
+- privileged admin access;
+- non-public operational credentials.
+
+Public demo app credentials may be published only when they are intentionally approved for public prototype access and do not grant administrative or internal access.
 
 ## Good public caveat pattern
 

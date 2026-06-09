@@ -4,6 +4,18 @@
 
 # https://ai-electronics-lab.pages.dev
 
+## Try the protected beta app
+
+The beta application is password-protected, but public demo access is currently available:
+
+- **App:** https://ai-electronics-lab.pages.dev/app/
+- **Login:** `Ground_control`
+- **Password:** `to_major_Tom`
+
+Please treat this as an early prototype. Results are simulation-oriented artifacts, not hardware validation.
+
+---
+
 **AI Electronics Lab** is a working prototype for AI-assisted electronics simulation workflows.
 
 It explores how a circuit idea can become a structured simulation task, artifacts, plots, explanations, caveats, and follow-up iterations.
@@ -67,13 +79,13 @@ https://ai-electronics-lab.pages.dev/experiments/rc-low-pass-001
 
 The working application is protected during early testing.
 
-Entry point through the public site:
+Current public demo access is intentionally listed at the top of this README. The credentials are for early public prototype access, not for private administration or internal operations.
+
+Use the app through:
 
 ```text
-https://ai-electronics-lab.pages.dev
+https://ai-electronics-lab.pages.dev/app/
 ```
-
-The protected app is intended for invited or semi-public beta users who already know the access password.
 
 ## What this project is not
 
@@ -131,6 +143,7 @@ The deeper question is:
 ## External links
 
 - **Public site:** https://ai-electronics-lab.pages.dev
+- **Protected beta app:** https://ai-electronics-lab.pages.dev/app/
 - **Public repository:** https://github.com/AI-Electronics-Lab/ai-electronics-lab-public
 - **Organization:** https://github.com/AI-Electronics-Lab
 
@@ -140,4 +153,4 @@ Public content should remain bounded and reviewable.
 
 Do not publish claims about electronics correctness, SPICE behavior, schematic validity, calculation accuracy, units, tolerances, hardware safety, physical behavior, or production readiness unless they have passed the appropriate review path.
 
-No secrets, credentials, internal hostnames, private runbooks, private artifact paths, or unapproved operational evidence should be added here.
+No secrets, private credentials, internal hostnames, private runbooks, private artifact paths, or unapproved operational evidence should be added here. Public demo app credentials may be listed only when they are intentionally approved for public prototype access.
