@@ -10,12 +10,13 @@ Use this checklist before changing repository visibility, publishing public-faci
 - [ ] Repository visibility is intentional.
 - [ ] Human approval is recorded before major public positioning changes.
 - [ ] Public site link is correct: `https://ai-electronics-lab.pages.dev`.
-- [ ] Protected app access details are not exposed.
+- [ ] Public demo app access details are listed only if intentionally approved for public prototype access.
+- [ ] Protected app access does not expose administration, internal operations, private data, or privileged functionality.
 - [ ] Public demo links point only to approved public pages.
 
 ## Content safety
 
-- [ ] No secrets or credentials.
+- [ ] No secrets or private credentials.
 - [ ] No internal hostnames.
 - [ ] No private operational paths.
 - [ ] No private runbook details.
@@ -23,7 +24,7 @@ Use this checklist before changing repository visibility, publishing public-faci
 - [ ] No private artifact paths.
 - [ ] No private evidence packets.
 - [ ] No raw internal logs.
-- [ ] No protected beta password.
+- [ ] Public demo credentials, if present, are intentionally approved and scoped for public prototype access only.
 
 ## Claim safety
 
@@ -61,6 +62,7 @@ Use this checklist before changing repository visibility, publishing public-faci
 - [ ] No broken relative links.
 - [ ] No accidental private references.
 - [ ] Public site URL is prominent in the README.
+- [ ] Public beta app access, if present, is visible near the top of the README and repeated in FAQ.
 
 ## Final approval
 
